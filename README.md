@@ -3,9 +3,8 @@
 - 🔭 I’m currently working on backend with Django
 - 🌱 I’m currently learning React Js
 
-[![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=zHenriqueGN&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zHenriqueGN&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+![zHenriqueGN's Stats](https://github-readme-stats.vercel.app/api?username=zHenriqueGN&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![zHenriqueGN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zHenriqueGN&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
