@@ -1,6 +1,6 @@
 ### Hey! I'm Henrique👋
 
-- 🔭 I’m currently working on backend with Django
+- 🔭 I’m currently working on backend with Python
 - 🌱 I’m currently learning Golang
 
 ![zHenriqueGN's Stats](https://github-readme-stats.vercel.app/api?username=zHenriqueGN&theme=dark&show_icons=true&hide_border=true&count_private=true)
