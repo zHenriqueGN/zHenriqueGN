@@ -5,6 +5,9 @@
 
 ![zHenriqueGN's Stats](https://github-readme-stats.vercel.app/api?username=zHenriqueGN&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![zHenriqueGN's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zHenriqueGN&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/henriquegomesnunes19?theme=dark)](https://leetcode.com/henriquegomesnunes19)
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
   <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
